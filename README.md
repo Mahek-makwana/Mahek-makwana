@@ -15,15 +15,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🧠+AI+Engineer+%7C+Data+Scientist+%7C+Builder;🎓+AI+Engineer+at+Craft+AI;🚀+Training+the+minds+of+AI+and+my+own" alt="Typing SVG">
-</p>
 
-<br>
-
-## 🚀 About Me
-
-- 🧠 I'm currently an **AI Software Engineer** at **Craft AI**, building automated documentation auditing systems using AST-based parsing.
 - 🎓 I'm pursuing a Master’s in **Artificial Intelligence & Data Science** at **Aivancity Paris**, specializing in production-ready AI.
 - 🛠️ I focus on **LLMOps**, **Deterministic NLP Engines**, and **CI/CD Automation** for machine learning workflows.
 - 🌍 Based in **Paris, France**, dedicated to building ethical and robust AI systems.
@@ -91,93 +83,316 @@
 </div>
 
 <br><br>
+<!-- refresh -->
 
-<h2 align="center">💻 My Recent Projects</h2>
-<br />
+<!-- Header -->
 
-<table align="center" style="border-spacing: 20px;">
-<tr>
+<p align="center">
 
-<td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <a href="https://github.com/Mahek-makwana" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahek-makwana&repo=Sentiment-Analysis-BERT&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
-  </a>
-  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🎭 Sentiment Analysis BERT</p>
-  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">
-    Advanced NLP pipeline for sentiment classification using BERT. Features automated deployment workflows with GitHub Actions and Docker.
-  </p>
-  <br>
-  <div>
-    <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  </div>
-</td>
+  <a href="mailto:mahekmakwana137@gmail.com">📩 Email</a> •
 
-<td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <a href="https://github.com/Mahek-makwana" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahek-makwana&repo=MLOps-Project&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
-  </a>
-  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">⚙️ End-to-End MLOps</p>
-  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">
-    Implemented full MLOps lifecycle: model training, containerization, and automated CI/CD pipelines for production-ready AI.
-  </p>
-  <br>
-  <div>
-    <img src="https://img.shields.io/badge/MLOps-36BCF7?style=flat-square" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  </div>
-</td>
+  <a href="https://www.linkedin.com/in/mahek-makwana-014baa2ab">💼 LinkedIn</a> •
 
-</tr>
-</table>
+  <a href="https://github.com/Mahek-makwana">🧠 GitHub</a>
 
-<br><br>
+</p>
 
-<h2 align="center">📊 GitHub Statistics</h2>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahek-makwana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border_color=36BCF7"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahek-makwana&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&border_color=36BCF7&hide=Jupyter%20Notebook"/>
-</div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://streak-stats.demolab.com/?user=Mahek-makwana&theme=tokyonight&border_radius=10&border=36BCF7" />
-</div>
+<p align="center">
 
-<br>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+in+Progress;Generative+AI+Developer;LLM+%7C+SLM+Research+Learner;Data+Scientist+%7C+NLP+Practitioner;Always+Learning+Something+New&center=true&width=500&height=45" />
 
-<h2 align="center">🌐 Connect With Me</h2>
+</p>
 
-<div align="center">
-  <a href="https://linkedin.com/in/mahek-makwana">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:mahekmakwana137@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&border_radius=10" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/Mahek-makwana">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&border_radius=10" />
-  </a>
-</div>
 
-<br>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_radius=10" />
-</div>
+---
 
-<br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Wave"/>
-  
-  <h3>💫 Thanks for visiting my profile!</h3>
 
-  <img src="https://komarev.com/ghpvc/?username=Mahek-makwana&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor count"/>
+## 🌟 About Me  
 
-  <br><br>
+I am a **3rd-year AI & Data Science student at Aivancity Paris**, building intelligent systems that blend **creativity + engineering + ethics**.  
 
-  <strong>⭐ From <a href="https://github.com/Mahek-makwana">Mahek Makwana</a> | Training the minds of AI, one algorithm at a time! 🚀</strong>
-</div>
+My goal is to become a **professional AI Engineer** who designs scalable, responsible, and impactful AI solutions.
+
+
+
+### 🔍 What I focus on:
+
+- 🚀 **Generative AI:** realistic data generation, synthetic datasets, model creativity  
+
+- 🧠 **LLMs & SLMs:** architecture, fine-tuning, prompt engineering  
+
+- 🩻 **AI in Healthcare:** radiology preprocessing, medical NLP, report generation  
+
+- 📊 **Data Science:** data wrangling, ML pipelines, feature engineering  
+
+- 🛠️ **AI for Businesses:** insurance, CRM, automation, analytics  
+
+
+
+### 🌱 What drives me:
+
+I believe that *AI should be built for humans, not against them.*  
+
+My mission is to build solutions that:
+
+- are **explainable**,  
+
+- **ethical**,  
+
+- **useful**,  
+
+- and **accessible** to everyone.
+
+
+
+### 🤝 Let’s connect:
+
+I love exchanging ideas about AI, LLMs, ML engineering, and future technologies.  
+
+Feel free to reach out — I’m always happy to collaborate or contribute!
+
+
+
+---
+
+
+
+## 🧠 Technical Skills
+
+
+
+### 🚀 AI & Machine Learning  
+
+- **Generative AI, LLMs, SLMs, NLP, Deep Learning**  
+
+- Model training, fine-tuning (LoRA/QLoRA), embeddings, attention  
+
+- Classical ML: regression, clustering, dimensionality reduction (PCA, t-SNE)
+
+
+
+### 🏗️ Frameworks & Libraries  
+
+<p>
+
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" height="45" />
+
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,opencv" height="45" />
+
+</p>
+
+
+
+### 📊 Data Engineering  
+
+- Data wrangling, preprocessing, feature engineering  
+
+- SQL (MySQL), ETL flows, data cleaning pipelines  
+
+- Working with structured + unstructured datasets  
+
+
+
+
+
+
+
+### 🏥 Domain Experience  
+
+- Medical imaging preprocessing (radiology)  
+
+- AI for veterinary diagnostics (report generation)  
+
+- CRM analytics, insurance data simulation  
+
+- Streamlit interfaces for AI applications  
+
+
+
+
+
+---
+
+
+
+## 🚀 Featured AI Projects
+
+
+
+### 🔹 **1. Generative AI for Synthetic Insurance Data**  
+
+**Role:** Data Scientist @ Keyrus  
+
+- Built a **Generative AI system** producing realistic insurance customer data in seconds.  
+
+- Integrated **user constraints** (rows, columns, formats) for custom dataset generation.  
+
+- Developed an interactive **Streamlit interface** for easy access and exploration.  
+
+
+
+📌 *Tech:* Generative AI • Python • Streamlit • Data Simulation  
+
+📂 *(Add repo link here once uploaded)*  
+
+
+
+
+
+---
+
+
+
+### 🔹 **2. AI for Veterinary Radiology – Medical Report Generation**  
+
+**Role:** Assistant Data Scientist @ Aivancity  
+
+- Preprocessed radiological images for ML pipelines.  
+
+- Researched and implemented **LLMs for medical report generation**.  
+
+- Improved radiology workflows and contributed to **animal healthcare diagnostics**.  
+
+
+
+📌 *Tech:* LLMs • Medical NLP • Image Preprocessing • Python  
+
+
+
+
+
+---
+
+
+
+### 🔹 **3. NLP for CRM Optimization**  
+
+**Role:** Data Research Analyst @ Shift Technology  
+
+- Researched how NLP can enhance CRM intelligence.  
+
+- Explored **lead scoring**, customer intent extraction, and communication analysis.  
+
+- Studied chatbot improvements using conversational AI.  
+
+
+
+📌 *Tech:* NLP • CRM Analytics • Python  
+
+
+
+
+
+---
+
+
+
+### 🔹 **4. Trend Analysis & Data Visualization**  
+
+**Role:** Data Visualization Engineer @ Belgo Trends  
+
+- Processed and cleaned large datasets with **Power BI + Python**.  
+
+- Built visualizations of trends: **style, colors, materials, patterns**.  
+
+
+
+📌 *Tech:* Power BI • Python • Data Cleaning  
+
+
+
+
+
+---
+
+
+
+### 🔹 **5. Personal AI/ML Projects**    
+
+- **SLM vs LLM Architecture** → Research & diagrams  
+
+- **Data Wrangling Notebooks** → Clean, structured preprocessing workflows  
+
+- **Interface Tools** → Python-based UI & utility apps
+
+
+
+  ---
+
+
+
+## 🏆 GitHub Highlights
+
+
+
+<p align="center">
+
+
+
+  <!-- Profile Views -->
+
+  <img src="https://komarev.com/ghpvc/?username=Mahek-makwana&style=for-the-badge" />
+
+
+
+  <!-- GitHub Followers -->
+
+  <img src="https://img.shields.io/github/followers/Mahek-makwana?style=for-the-badge" />
+
+
+
+  <!-- GitHub Stars -->
+
+  <img src="https://img.shields.io/github/stars/Mahek-makwana?style=for-the-badge" />
+
+
+
+</p>
+
+
+
+---
+
+
+
+## 📊 GitHub Analytics
+
+
+
+<p align="center">
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mahek-makwana&show_icons=true&theme=default" />
+
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahek-makwana" />
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahek-makwana&layout=compact&theme=default" />
+
+</p>
+
+
+
+---
+
+
+
+## 🏅 Achievements & Trophies
+
+
+
+<p align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahek-makwana&row=1&theme=flat&margin-w=10" />
+
+</p>
+
+
