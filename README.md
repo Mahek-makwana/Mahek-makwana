@@ -384,15 +384,3 @@ Feel free to reach out — I’m always happy to collaborate or contribute!
 ---
 
 
-
-## 🏅 Achievements & Trophies
-
-
-
-<p align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahek-makwana&row=1&theme=flat&margin-w=10" />
-
-</p>
-
-
