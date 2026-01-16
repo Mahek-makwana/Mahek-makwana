@@ -11,8 +11,7 @@
   <a href="https://linkedin.com/in/mahek-makwana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
-  <a href="https://mahek-makwana.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+ 
   </a>
 </p>
 
